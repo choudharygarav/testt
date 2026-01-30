@@ -29,5 +29,4 @@ elif choice == "4":
 
 else:
     print("Invalid choice")
-
-print ("hello apptunix.com")
+    apptunix 10.10.10.10/18
